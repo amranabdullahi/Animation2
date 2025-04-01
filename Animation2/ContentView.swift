@@ -1,21 +1,15 @@
 //
-//  ContentView.swift
-//  Animation2
+//  BasicAnimation.swift
+//  AnimationTest
 //
-//  Created by Amran Abdullahi on 2/26/25.
+//  Created by Amran Abdullahi on 2/25/25.
 //
 
 import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
-        }
-        .padding()
+        TextView(textLines: ["NEW", "YORK", "CITY"], animationDuration: 1.0, fadeIn: true)
     }
 }
 
