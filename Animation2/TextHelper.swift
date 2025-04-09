@@ -43,14 +43,20 @@ struct TextHelper: View {
         Spacer()
 
     }
-    func getOffset(for index: Int) -> CGSize {
-        switch direction {
-        case .top:
-            return CGSize(width: 0, height: isAnimating[index] ? 0 : -offsetDistance)
-        
-        }
+//    func getOffset(for index: Int) -> CGSize {
+//        switch direction {
+//        case .top:
+//            return CGSize(width: 0, height: isAnimating[index] ? 0 : -offsetDistance)
+//        
+//        case .bottom:
+//            <#code#>
+//        case .leading:
+//            <#code#>
+//        case .trailing:
+//            <#code#>
+//        }
     }
-}
+
 
 #Preview {
     TextHelper(textToDisplay: ["A","M","R","A","N"], myFont: 30.5, offsetDistance: -600, reload: true)

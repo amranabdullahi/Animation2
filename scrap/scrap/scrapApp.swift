@@ -1,14 +1,14 @@
 //
-//  CTSOPalletApp.swift
-//  CTSOPallet
+//  scrapApp.swift
+//  scrap
 //
-//  Created by Amran Abdullahi on 4/1/25.
+//  Created by Amran Abdullahi on 4/7/25.
 //
 
 import SwiftUI
 
 @main
-struct CTSOPalletApp: App {
+struct scrapApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()

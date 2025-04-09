@@ -7,97 +7,62 @@
 	objects = {
 
 /* Begin PBXContainerItemProxy section */
-		74E2AF122D9C575D00CEC957 /* PBXContainerItemProxy */ = {
+		74E2AFF42DA4383400CEC957 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 74E2AEF92D9C575B00CEC957 /* Project object */;
+			containerPortal = 74E2AFDB2DA4383200CEC957 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 74E2AF002D9C575B00CEC957;
-			remoteInfo = CTSOPallet;
+			remoteGlobalIDString = 74E2AFE22DA4383200CEC957;
+			remoteInfo = scrap;
 		};
-		74E2AF1C2D9C575E00CEC957 /* PBXContainerItemProxy */ = {
+		74E2AFFE2DA4383400CEC957 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 74E2AEF92D9C575B00CEC957 /* Project object */;
+			containerPortal = 74E2AFDB2DA4383200CEC957 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 74E2AF002D9C575B00CEC957;
-			remoteInfo = CTSOPallet;
+			remoteGlobalIDString = 74E2AFE22DA4383200CEC957;
+			remoteInfo = scrap;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		74E2AF012D9C575B00CEC957 /* CTSOPallet.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CTSOPallet.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		74E2AF112D9C575D00CEC957 /* CTSOPalletTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CTSOPalletTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		74E2AF1B2D9C575E00CEC957 /* CTSOPalletUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CTSOPalletUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		74E2AFE32DA4383200CEC957 /* scrap.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = scrap.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		74E2AFF32DA4383400CEC957 /* scrapTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = scrapTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		74E2AFFD2DA4383400CEC957 /* scrapUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = scrapUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
-/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		74E2AF362D9C61C800CEC957 /* Exceptions for "CTSOPallet" folder in "CTSOPallet" target */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				Info.plist,
-			);
-			target = 74E2AF002D9C575B00CEC957 /* CTSOPallet */;
-		};
-		74E2AF672D9EFC4100CEC957 /* Exceptions for "CTSOPallet" folder in "CTSOPalletTests" target */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				Blacksword.otf,
-				"LEMONMILK-Regular.otf",
-				"LEMONMILK-RegularItalic.otf",
-				serif.ttf,
-			);
-			target = 74E2AF102D9C575D00CEC957 /* CTSOPalletTests */;
-		};
-		74E2AF682D9EFC4100CEC957 /* Exceptions for "CTSOPallet" folder in "CTSOPalletUITests" target */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				Blacksword.otf,
-				"LEMONMILK-Regular.otf",
-				"LEMONMILK-RegularItalic.otf",
-				serif.ttf,
-			);
-			target = 74E2AF1A2D9C575E00CEC957 /* CTSOPalletUITests */;
-		};
-/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
-
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		74E2AF032D9C575B00CEC957 /* CTSOPallet */ = {
+		74E2AFE52DA4383200CEC957 /* scrap */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				74E2AF362D9C61C800CEC957 /* Exceptions for "CTSOPallet" folder in "CTSOPallet" target */,
-				74E2AF672D9EFC4100CEC957 /* Exceptions for "CTSOPallet" folder in "CTSOPalletTests" target */,
-				74E2AF682D9EFC4100CEC957 /* Exceptions for "CTSOPallet" folder in "CTSOPalletUITests" target */,
-			);
-			path = CTSOPallet;
+			path = scrap;
 			sourceTree = "<group>";
 		};
-		74E2AF142D9C575E00CEC957 /* CTSOPalletTests */ = {
+		74E2AFF62DA4383400CEC957 /* scrapTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = CTSOPalletTests;
+			path = scrapTests;
 			sourceTree = "<group>";
 		};
-		74E2AF1E2D9C575E00CEC957 /* CTSOPalletUITests */ = {
+		74E2B0002DA4383400CEC957 /* scrapUITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = CTSOPalletUITests;
+			path = scrapUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		74E2AEFE2D9C575B00CEC957 /* Frameworks */ = {
+		74E2AFE02DA4383200CEC957 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		74E2AF0E2D9C575D00CEC957 /* Frameworks */ = {
+		74E2AFF02DA4383400CEC957 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		74E2AF182D9C575E00CEC957 /* Frameworks */ = {
+		74E2AFFA2DA4383400CEC957 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -107,22 +72,22 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		74E2AEF82D9C575B00CEC957 = {
+		74E2AFDA2DA4383200CEC957 = {
 			isa = PBXGroup;
 			children = (
-				74E2AF032D9C575B00CEC957 /* CTSOPallet */,
-				74E2AF142D9C575E00CEC957 /* CTSOPalletTests */,
-				74E2AF1E2D9C575E00CEC957 /* CTSOPalletUITests */,
-				74E2AF022D9C575B00CEC957 /* Products */,
+				74E2AFE52DA4383200CEC957 /* scrap */,
+				74E2AFF62DA4383400CEC957 /* scrapTests */,
+				74E2B0002DA4383400CEC957 /* scrapUITests */,
+				74E2AFE42DA4383200CEC957 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		74E2AF022D9C575B00CEC957 /* Products */ = {
+		74E2AFE42DA4383200CEC957 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				74E2AF012D9C575B00CEC957 /* CTSOPallet.app */,
-				74E2AF112D9C575D00CEC957 /* CTSOPalletTests.xctest */,
-				74E2AF1B2D9C575E00CEC957 /* CTSOPalletUITests.xctest */,
+				74E2AFE32DA4383200CEC957 /* scrap.app */,
+				74E2AFF32DA4383400CEC957 /* scrapTests.xctest */,
+				74E2AFFD2DA4383400CEC957 /* scrapUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -130,134 +95,134 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		74E2AF002D9C575B00CEC957 /* CTSOPallet */ = {
+		74E2AFE22DA4383200CEC957 /* scrap */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 74E2AF252D9C575E00CEC957 /* Build configuration list for PBXNativeTarget "CTSOPallet" */;
+			buildConfigurationList = 74E2B0072DA4383400CEC957 /* Build configuration list for PBXNativeTarget "scrap" */;
 			buildPhases = (
-				74E2AEFD2D9C575B00CEC957 /* Sources */,
-				74E2AEFE2D9C575B00CEC957 /* Frameworks */,
-				74E2AEFF2D9C575B00CEC957 /* Resources */,
+				74E2AFDF2DA4383200CEC957 /* Sources */,
+				74E2AFE02DA4383200CEC957 /* Frameworks */,
+				74E2AFE12DA4383200CEC957 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				74E2AF032D9C575B00CEC957 /* CTSOPallet */,
+				74E2AFE52DA4383200CEC957 /* scrap */,
 			);
-			name = CTSOPallet;
+			name = scrap;
 			packageProductDependencies = (
 			);
-			productName = CTSOPallet;
-			productReference = 74E2AF012D9C575B00CEC957 /* CTSOPallet.app */;
+			productName = scrap;
+			productReference = 74E2AFE32DA4383200CEC957 /* scrap.app */;
 			productType = "com.apple.product-type.application";
 		};
-		74E2AF102D9C575D00CEC957 /* CTSOPalletTests */ = {
+		74E2AFF22DA4383400CEC957 /* scrapTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 74E2AF282D9C575E00CEC957 /* Build configuration list for PBXNativeTarget "CTSOPalletTests" */;
+			buildConfigurationList = 74E2B00A2DA4383400CEC957 /* Build configuration list for PBXNativeTarget "scrapTests" */;
 			buildPhases = (
-				74E2AF0D2D9C575D00CEC957 /* Sources */,
-				74E2AF0E2D9C575D00CEC957 /* Frameworks */,
-				74E2AF0F2D9C575D00CEC957 /* Resources */,
+				74E2AFEF2DA4383400CEC957 /* Sources */,
+				74E2AFF02DA4383400CEC957 /* Frameworks */,
+				74E2AFF12DA4383400CEC957 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				74E2AF132D9C575D00CEC957 /* PBXTargetDependency */,
+				74E2AFF52DA4383400CEC957 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				74E2AF142D9C575E00CEC957 /* CTSOPalletTests */,
+				74E2AFF62DA4383400CEC957 /* scrapTests */,
 			);
-			name = CTSOPalletTests;
+			name = scrapTests;
 			packageProductDependencies = (
 			);
-			productName = CTSOPalletTests;
-			productReference = 74E2AF112D9C575D00CEC957 /* CTSOPalletTests.xctest */;
+			productName = scrapTests;
+			productReference = 74E2AFF32DA4383400CEC957 /* scrapTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		74E2AF1A2D9C575E00CEC957 /* CTSOPalletUITests */ = {
+		74E2AFFC2DA4383400CEC957 /* scrapUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 74E2AF2B2D9C575E00CEC957 /* Build configuration list for PBXNativeTarget "CTSOPalletUITests" */;
+			buildConfigurationList = 74E2B00D2DA4383400CEC957 /* Build configuration list for PBXNativeTarget "scrapUITests" */;
 			buildPhases = (
-				74E2AF172D9C575E00CEC957 /* Sources */,
-				74E2AF182D9C575E00CEC957 /* Frameworks */,
-				74E2AF192D9C575E00CEC957 /* Resources */,
+				74E2AFF92DA4383400CEC957 /* Sources */,
+				74E2AFFA2DA4383400CEC957 /* Frameworks */,
+				74E2AFFB2DA4383400CEC957 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				74E2AF1D2D9C575E00CEC957 /* PBXTargetDependency */,
+				74E2AFFF2DA4383400CEC957 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				74E2AF1E2D9C575E00CEC957 /* CTSOPalletUITests */,
+				74E2B0002DA4383400CEC957 /* scrapUITests */,
 			);
-			name = CTSOPalletUITests;
+			name = scrapUITests;
 			packageProductDependencies = (
 			);
-			productName = CTSOPalletUITests;
-			productReference = 74E2AF1B2D9C575E00CEC957 /* CTSOPalletUITests.xctest */;
+			productName = scrapUITests;
+			productReference = 74E2AFFD2DA4383400CEC957 /* scrapUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		74E2AEF92D9C575B00CEC957 /* Project object */ = {
+		74E2AFDB2DA4383200CEC957 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1620;
 				LastUpgradeCheck = 1620;
 				TargetAttributes = {
-					74E2AF002D9C575B00CEC957 = {
+					74E2AFE22DA4383200CEC957 = {
 						CreatedOnToolsVersion = 16.2;
 					};
-					74E2AF102D9C575D00CEC957 = {
+					74E2AFF22DA4383400CEC957 = {
 						CreatedOnToolsVersion = 16.2;
-						TestTargetID = 74E2AF002D9C575B00CEC957;
+						TestTargetID = 74E2AFE22DA4383200CEC957;
 					};
-					74E2AF1A2D9C575E00CEC957 = {
+					74E2AFFC2DA4383400CEC957 = {
 						CreatedOnToolsVersion = 16.2;
-						TestTargetID = 74E2AF002D9C575B00CEC957;
+						TestTargetID = 74E2AFE22DA4383200CEC957;
 					};
 				};
 			};
-			buildConfigurationList = 74E2AEFC2D9C575B00CEC957 /* Build configuration list for PBXProject "CTSOPallet" */;
+			buildConfigurationList = 74E2AFDE2DA4383200CEC957 /* Build configuration list for PBXProject "scrap" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 74E2AEF82D9C575B00CEC957;
+			mainGroup = 74E2AFDA2DA4383200CEC957;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 74E2AF022D9C575B00CEC957 /* Products */;
+			productRefGroup = 74E2AFE42DA4383200CEC957 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				74E2AF002D9C575B00CEC957 /* CTSOPallet */,
-				74E2AF102D9C575D00CEC957 /* CTSOPalletTests */,
-				74E2AF1A2D9C575E00CEC957 /* CTSOPalletUITests */,
+				74E2AFE22DA4383200CEC957 /* scrap */,
+				74E2AFF22DA4383400CEC957 /* scrapTests */,
+				74E2AFFC2DA4383400CEC957 /* scrapUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		74E2AEFF2D9C575B00CEC957 /* Resources */ = {
+		74E2AFE12DA4383200CEC957 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		74E2AF0F2D9C575D00CEC957 /* Resources */ = {
+		74E2AFF12DA4383400CEC957 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		74E2AF192D9C575E00CEC957 /* Resources */ = {
+		74E2AFFB2DA4383400CEC957 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -267,21 +232,21 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		74E2AEFD2D9C575B00CEC957 /* Sources */ = {
+		74E2AFDF2DA4383200CEC957 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		74E2AF0D2D9C575D00CEC957 /* Sources */ = {
+		74E2AFEF2DA4383400CEC957 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		74E2AF172D9C575E00CEC957 /* Sources */ = {
+		74E2AFF92DA4383400CEC957 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -291,20 +256,20 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		74E2AF132D9C575D00CEC957 /* PBXTargetDependency */ = {
+		74E2AFF52DA4383400CEC957 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 74E2AF002D9C575B00CEC957 /* CTSOPallet */;
-			targetProxy = 74E2AF122D9C575D00CEC957 /* PBXContainerItemProxy */;
+			target = 74E2AFE22DA4383200CEC957 /* scrap */;
+			targetProxy = 74E2AFF42DA4383400CEC957 /* PBXContainerItemProxy */;
 		};
-		74E2AF1D2D9C575E00CEC957 /* PBXTargetDependency */ = {
+		74E2AFFF2DA4383400CEC957 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 74E2AF002D9C575B00CEC957 /* CTSOPallet */;
-			targetProxy = 74E2AF1C2D9C575E00CEC957 /* PBXContainerItemProxy */;
+			target = 74E2AFE22DA4383200CEC957 /* scrap */;
+			targetProxy = 74E2AFFE2DA4383400CEC957 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		74E2AF232D9C575E00CEC957 /* Debug */ = {
+		74E2B0052DA4383400CEC957 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -367,7 +332,7 @@
 			};
 			name = Debug;
 		};
-		74E2AF242D9C575E00CEC957 /* Release */ = {
+		74E2B0062DA4383400CEC957 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -423,17 +388,16 @@
 			};
 			name = Release;
 		};
-		74E2AF262D9C575E00CEC957 /* Debug */ = {
+		74E2B0082DA4383400CEC957 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"CTSOPallet/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"scrap/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = CTSOPallet/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -444,7 +408,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = us.swcsd.CTSOPallet;
+				PRODUCT_BUNDLE_IDENTIFIER = us.swcsd.scrap;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -452,17 +416,16 @@
 			};
 			name = Debug;
 		};
-		74E2AF272D9C575E00CEC957 /* Release */ = {
+		74E2B0092DA4383400CEC957 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"CTSOPallet/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"scrap/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = CTSOPallet/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -473,7 +436,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = us.swcsd.CTSOPallet;
+				PRODUCT_BUNDLE_IDENTIFIER = us.swcsd.scrap;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -481,7 +444,7 @@
 			};
 			name = Release;
 		};
-		74E2AF292D9C575E00CEC957 /* Debug */ = {
+		74E2B00B2DA4383400CEC957 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -490,16 +453,16 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = us.swcsd.CTSOPalletTests;
+				PRODUCT_BUNDLE_IDENTIFIER = us.swcsd.scrapTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/CTSOPallet.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/CTSOPallet";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/scrap.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/scrap";
 			};
 			name = Debug;
 		};
-		74E2AF2A2D9C575E00CEC957 /* Release */ = {
+		74E2B00C2DA4383400CEC957 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -508,87 +471,87 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = us.swcsd.CTSOPalletTests;
+				PRODUCT_BUNDLE_IDENTIFIER = us.swcsd.scrapTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/CTSOPallet.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/CTSOPallet";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/scrap.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/scrap";
 			};
 			name = Release;
 		};
-		74E2AF2C2D9C575E00CEC957 /* Debug */ = {
+		74E2B00E2DA4383400CEC957 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = us.swcsd.CTSOPalletUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = us.swcsd.scrapUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = CTSOPallet;
+				TEST_TARGET_NAME = scrap;
 			};
 			name = Debug;
 		};
-		74E2AF2D2D9C575E00CEC957 /* Release */ = {
+		74E2B00F2DA4383400CEC957 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = us.swcsd.CTSOPalletUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = us.swcsd.scrapUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = CTSOPallet;
+				TEST_TARGET_NAME = scrap;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		74E2AEFC2D9C575B00CEC957 /* Build configuration list for PBXProject "CTSOPallet" */ = {
+		74E2AFDE2DA4383200CEC957 /* Build configuration list for PBXProject "scrap" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				74E2AF232D9C575E00CEC957 /* Debug */,
-				74E2AF242D9C575E00CEC957 /* Release */,
+				74E2B0052DA4383400CEC957 /* Debug */,
+				74E2B0062DA4383400CEC957 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		74E2AF252D9C575E00CEC957 /* Build configuration list for PBXNativeTarget "CTSOPallet" */ = {
+		74E2B0072DA4383400CEC957 /* Build configuration list for PBXNativeTarget "scrap" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				74E2AF262D9C575E00CEC957 /* Debug */,
-				74E2AF272D9C575E00CEC957 /* Release */,
+				74E2B0082DA4383400CEC957 /* Debug */,
+				74E2B0092DA4383400CEC957 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		74E2AF282D9C575E00CEC957 /* Build configuration list for PBXNativeTarget "CTSOPalletTests" */ = {
+		74E2B00A2DA4383400CEC957 /* Build configuration list for PBXNativeTarget "scrapTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				74E2AF292D9C575E00CEC957 /* Debug */,
-				74E2AF2A2D9C575E00CEC957 /* Release */,
+				74E2B00B2DA4383400CEC957 /* Debug */,
+				74E2B00C2DA4383400CEC957 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		74E2AF2B2D9C575E00CEC957 /* Build configuration list for PBXNativeTarget "CTSOPalletUITests" */ = {
+		74E2B00D2DA4383400CEC957 /* Build configuration list for PBXNativeTarget "scrapUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				74E2AF2C2D9C575E00CEC957 /* Debug */,
-				74E2AF2D2D9C575E00CEC957 /* Release */,
+				74E2B00E2DA4383400CEC957 /* Debug */,
+				74E2B00F2DA4383400CEC957 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 74E2AEF92D9C575B00CEC957 /* Project object */;
+	rootObject = 74E2AFDB2DA4383200CEC957 /* Project object */;
 }
