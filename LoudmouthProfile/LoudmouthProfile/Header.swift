@@ -1,18 +1,18 @@
 //
-//  PuzzleDetail.swift
-//  scrap
+//  Header.swift
+//  LoudmouthProfile
 //
-//  Created by Amran Abdullahi on 4/10/25.
+//  Created by Amran Abdullahi on 4/11/25.
 //
 
 import SwiftUI
 
-struct PuzzleDetail: View {
+struct Header: View {
     var body: some View {
         Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
     }
 }
 
 #Preview {
-    PuzzleDetail()
+    Header()
 }

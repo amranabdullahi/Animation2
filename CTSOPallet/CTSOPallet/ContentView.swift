@@ -28,7 +28,7 @@ struct ContentView: View {
                     .foregroundStyle(Color.OHBrown)
 
                 
-                Text("Career Technical Student Association")
+                Text("Career Technical Student Organization")
                     .subTitleFont()
                     .foregroundStyle(Color.OHBlue)
 
